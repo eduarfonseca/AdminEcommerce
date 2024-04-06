@@ -1,15 +1,15 @@
 package com.example.adminecommerce.Modelos;
 
 public class Producto {
-    public int id;
-    public String title;
-    public double price;
-    public String description;
-    public int stock;
-    public String image;
-    public double rating;
-    public Color color;
-    public Brand brand;
+    private int id;
+    private String title;
+    private double price;
+    private String description;
+    private int stock;
+    private String image;
+    private double rating;
+    private Color color;
+    private Brand brand;
 
     public Producto(int id, String title, double price, String description, int stock, String image, double rating, Color color, Brand brand) {
         this.id = id;
@@ -27,7 +27,7 @@ public class Producto {
         return id;
     }
 
-    public void setId(int id) {
+    private void setId(int id) {
         this.id = id;
     }
 
@@ -35,7 +35,7 @@ public class Producto {
         return title;
     }
 
-    public void setTitle(String title) {
+    private void setTitle(String title) {
         this.title = title;
     }
 
@@ -43,15 +43,15 @@ public class Producto {
         return price;
     }
 
-    public void setPrice(double price) {
+    private void setPrice(double price) {
         this.price = price;
     }
 
-    public String getDescription() {
+    private String getDescription() {
         return description;
     }
 
-    public void setDescription(String description) {
+    private void setDescription(String description) {
         this.description = description;
     }
 
@@ -59,7 +59,7 @@ public class Producto {
         return stock;
     }
 
-    public void setStock(int stock) {
+    private void setStock(int stock) {
         this.stock = stock;
     }
 
@@ -67,7 +67,7 @@ public class Producto {
         return image;
     }
 
-    public void setImage(String image) {
+    private void setImage(String image) {
         this.image = image;
     }
 
@@ -75,7 +75,7 @@ public class Producto {
         return rating;
     }
 
-    public void setRating(double rating) {
+    private void setRating(double rating) {
         this.rating = rating;
     }
 
@@ -83,7 +83,7 @@ public class Producto {
         return color;
     }
 
-    public void setColor(Color color) {
+    private void setColor(Color color) {
         this.color = color;
     }
 
@@ -91,7 +91,7 @@ public class Producto {
         return brand;
     }
 
-    public void setBrand(Brand brand) {
+    private void setBrand(Brand brand) {
         this.brand = brand;
     }
 

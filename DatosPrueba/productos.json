@@ -1,0 +1,361 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "ducimus",
+            "price": 5748203.5719855,
+            "description": "Itaque officiis sit necessitatibus velit fugiat rerum. Beatae vel itaque provident officia beatae quis molestiae. Voluptates quam in quibusdam exercitationem quia.",
+            "stock": 546176,
+            "image": null,
+            "rating": 9274316,
+            "color": {
+                "id": 1,
+                "name": "blanco-1",
+                "code": "#BCB6AE"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 2,
+            "title": "aut",
+            "price": 0.5,
+            "description": "Ad quis sed consequatur nesciunt. Est voluptatem sit occaecati voluptatibus sapiente est. Aut earum et rerum. Modi sit tempore pariatur.",
+            "stock": 8,
+            "image": null,
+            "rating": 67493,
+            "color": {
+                "id": 3,
+                "name": "negro",
+                "code": "#0C0A0D"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 3,
+            "title": "consequatur",
+            "price": 375535.303406,
+            "description": "Ut et veniam enim eum dolores aut molestias. Asperiores ut voluptatem doloribus. Molestias voluptatem quia omnis sit animi occaecati.",
+            "stock": 73,
+            "image": null,
+            "rating": 1834035,
+            "color": {
+                "id": 2,
+                "name": "rosa-1",
+                "code": "#EDBEC8"
+            },
+            "brand": {
+                "id": 2,
+                "title": "Samsung"
+            }
+        },
+        {
+            "id": 4,
+            "title": "pariatur",
+            "price": 139.593,
+            "description": "Unde adipisci excepturi quia accusamus exercitationem. Eum aliquid accusamus rerum est exercitationem aut omnis. Cum vel vel quaerat et magni harum libero.",
+            "stock": 612,
+            "image": null,
+            "rating": 763855,
+            "color": {
+                "id": 4,
+                "name": "purpura-claro-1",
+                "code": "#DAC5DB"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 5,
+            "title": "aut",
+            "price": 34881022.5824,
+            "description": "Ut rerum consequatur sunt quo dicta. Sed dolores incidunt ut minus quisquam quia quibusdam. Numquam asperiores debitis qui. A veniam aut asperiores velit ut id veniam iure.",
+            "stock": 431668357,
+            "image": null,
+            "rating": 40883,
+            "color": {
+                "id": 1,
+                "name": "blanco-1",
+                "code": "#BCB6AE"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 6,
+            "title": "et",
+            "price": 24.0267,
+            "description": "Delectus optio voluptas error fugiat perspiciatis facere incidunt earum. Blanditiis velit commodi tempora excepturi sequi. Nam qui consectetur qui dignissimos cupiditate illo dignissimos optio.",
+            "stock": 26576,
+            "image": null,
+            "rating": 371,
+            "color": {
+                "id": 2,
+                "name": "rosa-1",
+                "code": "#EDBEC8"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 7,
+            "title": "nam",
+            "price": 0.795592766,
+            "description": "Perspiciatis ipsam et rerum et qui qui. Nihil aut aliquid iste. Necessitatibus sequi vel corrupti enim saepe. Rem quia rerum fugit molestiae blanditiis. Et hic dolores dolor omnis ut qui corporis.",
+            "stock": 249260,
+            "image": null,
+            "rating": 21,
+            "color": {
+                "id": 3,
+                "name": "negro",
+                "code": "#0C0A0D"
+            },
+            "brand": {
+                "id": 3,
+                "title": "Xiaomi"
+            }
+        },
+        {
+            "id": 8,
+            "title": "dolor",
+            "price": 52827985.751346,
+            "description": "Debitis alias tempore ut qui. Distinctio vel facilis et ut quidem possimus. Optio assumenda ea nihil magnam.",
+            "stock": 93,
+            "image": null,
+            "rating": 55385,
+            "color": {
+                "id": 5,
+                "name": "verde-oscuro1",
+                "code": "#595B4F"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 9,
+            "title": "qui",
+            "price": 16838.443817634,
+            "description": "Voluptates in ut magni sapiente sunt provident qui. Error rerum ad consequuntur fugit nostrum ullam nobis.",
+            "stock": 52994643,
+            "image": null,
+            "rating": 86026844,
+            "color": {
+                "id": 6,
+                "name": "azul-oscuro-1",
+                "code": "#213361"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 10,
+            "title": "eligendi",
+            "price": 108693919.41768,
+            "description": "Qui non et atque modi exercitationem. Veniam dignissimos rerum animi. Esse officiis ea ab mollitia. Cumque minus eaque beatae ea amet consequatur fugit quo.",
+            "stock": 61674,
+            "image": null,
+            "rating": 43850282,
+            "color": {
+                "id": 2,
+                "name": "rosa-1",
+                "code": "#EDBEC8"
+            },
+            "brand": {
+                "id": 4,
+                "title": "Meta"
+            }
+        },
+        {
+            "id": 11,
+            "title": "consequatur",
+            "price": 59144.961311609,
+            "description": "Omnis tenetur voluptas excepturi asperiores facilis illum natus. Officiis pariatur laudantium eaque in id.",
+            "stock": 508189360,
+            "image": null,
+            "rating": 9632,
+            "color": {
+                "id": 3,
+                "name": "negro",
+                "code": "#0C0A0D"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 12,
+            "title": "sit",
+            "price": 76.93807,
+            "description": "Autem consequatur corrupti ut aut tenetur ipsa eos. Voluptatem quos nostrum hic non excepturi. Necessitatibus sed nostrum voluptatem. Voluptas quod id autem illum voluptatem veritatis architecto.",
+            "stock": 80990635,
+            "image": null,
+            "rating": 105,
+            "color": {
+                "id": 2,
+                "name": "rosa-1",
+                "code": "#EDBEC8"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 13,
+            "title": "natus",
+            "price": 27.5,
+            "description": "Eos in non recusandae voluptatem sint. Dolores incidunt officiis occaecati. Excepturi dolores debitis cumque dignissimos nobis fugit omnis sit.",
+            "stock": 851945,
+            "image": null,
+            "rating": 7,
+            "color": {
+                "id": 3,
+                "name": "negro",
+                "code": "#0C0A0D"
+            },
+            "brand": null
+        },
+        {
+            "id": 14,
+            "title": "officia",
+            "price": 775163.1108524,
+            "description": "Omnis deserunt aperiam quia ad. Aut voluptas sunt consequuntur eos non soluta. Quam dolore neque impedit expedita quo modi perferendis necessitatibus. Autem recusandae doloribus non voluptatem.",
+            "stock": 3,
+            "image": null,
+            "rating": 172511099,
+            "color": {
+                "id": 1,
+                "name": "blanco-1",
+                "code": "#BCB6AE"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 15,
+            "title": "ipsam",
+            "price": 24.667643,
+            "description": "Quo sapiente quo inventore rerum laboriosam. Qui veniam nemo occaecati ducimus. Dolores explicabo reiciendis architecto sequi eum quia.",
+            "stock": 8,
+            "image": null,
+            "rating": 485,
+            "color": {
+                "id": 2,
+                "name": "rosa-1",
+                "code": "#EDBEC8"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 16,
+            "title": "neque",
+            "price": 35257.4985779,
+            "description": "Excepturi vero doloremque ad velit ipsa quaerat. Quasi rerum quia qui et a. Deserunt suscipit et consequuntur tempora quos in.",
+            "stock": 6600711,
+            "image": null,
+            "rating": 310326,
+            "color": {
+                "id": 3,
+                "name": "negro",
+                "code": "#0C0A0D"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 17,
+            "title": "est",
+            "price": 176379324.921,
+            "description": "Provident totam consequuntur et consequatur cumque. Accusamus doloribus qui dolorum cupiditate voluptatem voluptas aliquam. Et aut ea cupiditate aliquid modi illo officiis.",
+            "stock": 2448,
+            "image": null,
+            "rating": 94184394,
+            "color": {
+                "id": 4,
+                "name": "purpura-claro-1",
+                "code": "#DAC5DB"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 18,
+            "title": "ratione",
+            "price": 1395.29,
+            "description": "Magni optio et omnis molestiae. Sequi qui rerum tempora esse blanditiis laudantium. Debitis nihil vero quaerat dolorem quia fuga. Consectetur et et dolorem.",
+            "stock": 9663,
+            "image": null,
+            "rating": 42993,
+            "color": {
+                "id": 5,
+                "name": "verde-oscuro1",
+                "code": "#595B4F"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 19,
+            "title": "et",
+            "price": 0.79,
+            "description": "Et cumque quo vero illo magnam beatae. Voluptatem dolorem ducimus veniam iure soluta.",
+            "stock": 73,
+            "image": null,
+            "rating": 944890,
+            "color": {
+                "id": 2,
+                "name": "rosa-1",
+                "code": "#EDBEC8"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        },
+        {
+            "id": 20,
+            "title": "architecto",
+            "price": 186807,
+            "description": "Repellendus quasi recusandae culpa dolorem facilis. Est ut in quidem recusandae natus aut. Dolorem unde quia ut vel distinctio reprehenderit.",
+            "stock": 120155,
+            "image": null,
+            "rating": 2872507,
+            "color": {
+                "id": 1,
+                "name": "blanco-1",
+                "code": "#BCB6AE"
+            },
+            "brand": {
+                "id": 1,
+                "title": "Apple"
+            }
+        }
+    ]
+}

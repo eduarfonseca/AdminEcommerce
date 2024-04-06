@@ -1,20 +1,19 @@
 package com.example.adminecommerce.Modelos;
 
 public class Brand {
-    public int id;
+    private int id;
+    private String title;
 
     public Brand(int id, String title) {
         this.id = id;
         this.title = title;
     }
 
-    public String title;
-
     public int getId() {
         return id;
     }
 
-    public void setId(int id) {
+    private void setId(int id) {
         this.id = id;
     }
 
@@ -22,7 +21,7 @@ public class Brand {
         return title;
     }
 
-    public void setTitle(String title) {
+    private void setTitle(String title) {
         this.title = title;
     }
 }

@@ -2,6 +2,8 @@ package com.example.adminecommerce.Modelos;
 
 public class Color {
     public int id;
+    private String code;
+    private String name;
 
     public Color(int id, String name, String code) {
         this.id = id;
@@ -9,13 +11,11 @@ public class Color {
         this.code = code;
     }
 
-    public String name;
-
     public int getId() {
         return id;
     }
 
-    public void setId(int id) {
+    private void setId(int id) {
         this.id = id;
     }
 
@@ -23,7 +23,7 @@ public class Color {
         return name;
     }
 
-    public void setName(String name) {
+    private void setName(String name) {
         this.name = name;
     }
 
@@ -31,10 +31,8 @@ public class Color {
         return code;
     }
 
-    public void setCode(String code) {
+    private void setCode(String code) {
         this.code = code;
     }
-
-    public String code;
 
 }
