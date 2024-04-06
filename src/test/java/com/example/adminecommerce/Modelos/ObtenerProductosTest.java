@@ -7,6 +7,6 @@ class ObtenerProductosTest {
 
     @Test
     void obtenerProductosTest(){
-        assertEquals(20, ObtenerProductos.obtenerProductos().size());
+        assertEquals(20, ObtenerProductos.obtenerProductos().getProducts().size());
     }
 }

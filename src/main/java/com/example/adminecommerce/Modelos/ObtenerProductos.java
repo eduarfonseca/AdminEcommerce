@@ -10,12 +10,13 @@ import com.google.gson.reflect.TypeToken;
 
 
 public class ObtenerProductos {
-    public static ArrayList<Producto> obtenerProductos(){
-        ArrayList<Producto> productos = new ArrayList<>();
+    public static Productos obtenerProductos(){
+
         Gson json = new Gson();
+        Productos productos = null;
 
         try (BufferedReader reader = new BufferedReader(new FileReader("DatosPrueba/productos.json"))) {
-            Type listType = new TypeToken<ArrayList<Producto>>() {
+            Type listType = new TypeToken<Productos>() {
             }.getType();
             productos = json.fromJson(reader, listType);
         } catch (IOException e) {
