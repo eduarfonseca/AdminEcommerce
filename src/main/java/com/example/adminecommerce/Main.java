@@ -15,7 +15,7 @@ public class Main extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("hello-view.fxml"));
 
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
-        stage.setTitle("KNN");
+        stage.setTitle("Ecommerce");
         scene.getStylesheets().add(Main.class.getResource("assets/cupertino-dark.css").toString());
 
 
