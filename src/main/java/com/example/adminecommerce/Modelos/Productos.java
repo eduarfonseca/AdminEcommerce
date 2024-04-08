@@ -67,7 +67,6 @@ public class Productos {
     private ArrayList<Producto> products;
 
 
-
     public ArrayList<Producto> getProducts() {
         return products;
     }

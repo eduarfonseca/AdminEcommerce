@@ -1,9 +1,9 @@
-package com.example.adminecommerce;
+package com.example.adminecommerce.Vista;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class Controlador {
     @FXML
     private Label welcomeText;
 
